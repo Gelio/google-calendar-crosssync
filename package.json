@@ -1,0 +1,23 @@
+{
+  "name": "google-calendar-crosssync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gelio/google-calendar-crosssync.git"
+  },
+  "author": "Grzegorz Rozdzialik <voreny.gelio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gelio/google-calendar-crosssync/issues"
+  },
+  "homepage": "https://github.com/Gelio/google-calendar-crosssync#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.33"
+  }
+}
