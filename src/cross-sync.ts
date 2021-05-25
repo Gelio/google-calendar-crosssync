@@ -1,8 +1,5 @@
 import { partition } from "ramda";
-
-const calendarId = "grzegorz.rozdzialik@codilime.com";
-const syncDays = 2;
-const copiedEventPrefix = "↖️";
+import { calendarId, copiedEventPrefix, syncDays } from "./config";
 
 const getStartOfDay = (date = new Date()) =>
   new Date(date.getFullYear(), date.getMonth(), date.getDate());
