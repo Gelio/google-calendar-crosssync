@@ -2,6 +2,7 @@
   "compilerOptions": {
     "lib": ["esnext"],
     "strict": true,
+    "strictNullChecks": false,
     "experimentalDecorators": true,
     "noEmit": true
   }
